@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>OfficeApp.Mvc</id>
+    <version>1.0.0</version>
+    <authors>Jake Ginnivan</authors>
+    <owners>Jake Ginnivan</owners>
+    <projectUrl>https://github.com/JakeGinnivan/OfficeAppsNuGet</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Contains Office.css and Office.js for easily setting up a server side Office App using MVC</description>
+    <tags>Office</tags>
+  </metadata>
+</package>
